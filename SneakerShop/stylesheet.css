@@ -256,14 +256,17 @@ sup{
 .secondaryImg{
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
   background: linear-gradient(to right, #D22D7A, #FF512F);
+  align-items: center
 
 }
 
 .secondaryImgContainer img{
   width: 50%;
 }
+
+
 
 /*footer navigation css and secondary footer nav*/
 
